@@ -2,6 +2,7 @@ name: remember
 favicon: null
 layout_spectrum: 0.5539258860517293
 typography_spectrum: 0.8781370231881738
+title: Remember
 cta:
   domain: null
   bucket: null
